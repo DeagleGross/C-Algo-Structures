@@ -1,6 +1,19 @@
 # gtest folder
 **/gtest/
 
+# html folder
+**/html/
+
+# out folder
+**/out/
+
+# .bt files
+*.bt
+
+# out/gv and /img folder
+**/out/gv/
+**/out/img/
+
 # CLion folder
 .idea/
 
