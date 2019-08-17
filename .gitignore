@@ -8,7 +8,7 @@
 **/out/
 
 # input and output folders
-#**/input/
+**/input/
 **/output/
 
 # .bt files
